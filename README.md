@@ -1,6 +1,5 @@
 Cevence Discord Multi-Tool
 
-![CeveNce Logo](https://i.imgur.com/placeholder.png) *(logo placeholder)*
 
 A powerful Python-based multi-tool for Discord with various account management and utility features.
 
